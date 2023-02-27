@@ -19,7 +19,7 @@ class Save {
         return this.read().then(notes => {
             let parsedNotes;
             try {
-                parsedNotes = [].consat(JSON.parse(notes));
+                parsedNotes = [].concat(JSON.parse(notes));
             } catch (err) {
                 parsedNotes = [];
             }
