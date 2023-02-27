@@ -26,5 +26,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 # Mockup
+<img width="1512" alt="Screenshot 2023-02-26 at 11 29 17 PM" src="https://user-images.githubusercontent.com/112153725/221500883-58bf8a95-90fa-4d09-a255-94d618949042.png">
+
 
 # Links
